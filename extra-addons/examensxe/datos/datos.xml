@@ -1,0 +1,34 @@
+<odoo>
+    <data>
+        <record model="remesa" id="examensxe.nombres">
+            <field name="id">542387</field>
+            <field name="producto">tomates</field>
+            <field name="viabilidad">32</field>
+        </record>
+         <record model="remesa" id="examensxe.nombres1">
+            <field name="id">17638</field>
+            <field name="producto">lechugas</field>
+            <field name="viabilidad">19</field>
+        </record>
+         <record model="remesa" id="examensxe.nombres2">
+            <field name="id">186535</field>
+            <field name="producto">berenjenas</field>
+            <field name="viabilidad">22</field>
+        </record>
+         <record model="remesa" id="examensxe.nombres3">
+            <field name="id">1656357</field>
+            <field name="producto">calabacines</field>
+            <field name="viabilidad">10</field>
+        </record>
+         <record model="remesa" id="examensxe.nombres4">
+            <field name="id">817468</field>
+            <field name="producto">peras</field>
+            <field name="viabilidad">69</field>
+        </record>
+         <record model="remesa" id="examensxe.nombres5">
+            <field name="id">553865</field>
+            <field name="producto">patatas</field>
+            <field name="viabilidad">96</field>
+        </record>
+    </data>
+</odoo>
