@@ -75,10 +75,12 @@ Este readme proporciona una guía paso a paso para configurar un proyecto en Odo
     </data>
     </odoo
     
-  ![data xml.png](IMAGENES%20SXE%2Fdata%20xml.png)
+      ![data xml.png](IMAGENES%20SXE%2Fdata%20xml.png)
     ```
+
 10. **Configurar Seguridad:**
-    En la carpeta `security`, edita el archivo `ir.model.access.csv` para configurar los permisos de acceso a la tabla. Reemplaza `access_examensxe_examensxeAQUI 2 AQUI` por el nombre de la tabla.
+    En la carpeta `security`, edita el archivo `ir.model.access.csv` para configurar los permisos
+    de acceso a la tabla. Reemplaza `access_examensxe_examensxeAQUI 2 AQUI` por el nombre de la tabla.
 
 
 11. **Actualizar Referencia de Tablas:**
@@ -113,9 +115,12 @@ Este readme proporciona una guía paso a paso para configurar un proyecto en Odo
 ```
 
 ![docker 2.png](IMAGENES%20SXE%2Fdocker%202.png)
+
 13. **Actualizar Menús:**
+
     Edita los menús en el archivo `views.xml` , en el archivo `manifest.xml` para vincularlos correctamente y que así
     se puedan modificar posteriormente.
+
 ![docker 3.png](IMAGENES%20SXE%2Fdocker%203.png)
 ![docker 4.png](IMAGENES%20SXE%2Fdocker%204.png)
 ![docker 5.png](IMAGENES%20SXE%2Fdocker%205.png)
